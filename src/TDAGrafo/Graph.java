@@ -1,4 +1,4 @@
-package TDAGrafoLAdyacencia;
+package TDAGrafo;
 
 /**
  * Interface Graph - Estructura de Datos (DCIC-UNS).

@@ -1,4 +1,4 @@
-package TDAGrafoLAdyacencia;
+package TDAGrafo;
 
 
 public class InvalidVertexException extends Exception {

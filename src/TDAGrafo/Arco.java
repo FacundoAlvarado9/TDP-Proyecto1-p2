@@ -1,8 +1,6 @@
-package TDAGrafoLAdyacencia;
+package TDAGrafo;
 
-import TDALista.Lista;
 import TDALista.Position;
-import TDALista.PositionList;
 
 public class Arco<V, E> implements Edge<E> {
 

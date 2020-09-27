@@ -1,4 +1,4 @@
-package TDAGrafoLAdyacencia;
+package TDAGrafo;
 
 public interface Position<E> {
 

@@ -1,4 +1,4 @@
-package TDAGrafoLAdyacencia;
+package TDAGrafo;
 
 import TDALista.Lista;
 import TDALista.Position;

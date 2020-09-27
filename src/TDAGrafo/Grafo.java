@@ -1,4 +1,4 @@
-package TDAGrafoLAdyacencia;
+package TDAGrafo;
 
 import java.util.Iterator;
 import java.util.logging.*;

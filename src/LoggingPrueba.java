@@ -1,4 +1,4 @@
-import TDAGrafoLAdyacencia.Grafo;
+import TDAGrafo.Grafo;
 
 public class LoggingPrueba {
     public static void main(String[] args){
